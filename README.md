@@ -17,7 +17,7 @@ pip2 install requests
 
 pip2 install mechanize
 
-git clone https://github.com/Spider-fb/Spider-Black
+git clone https://github.com/spider-fb/Spider-Black
 
 cd Spider-Black
 
